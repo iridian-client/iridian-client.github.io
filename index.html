@@ -10,7 +10,27 @@
 
 <body>
     <article>
-        <h1>iridian</h1>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2.319in" height="0.833in">
+            <defs>
+                <filter filterUnits="userSpaceOnUse" id="Filter_0" x="0px" y="0px" width="167px" height="60px"  >
+                    <feOffset in="SourceAlpha" dx="0" dy="3" />
+                    <feGaussianBlur result="blurOut" stdDeviation="2.646" />
+                    <feFlood flood-color="rgb(0, 0, 0)" result="floodOut" />
+                    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+                    <feComponentTransfer><feFuncA type="linear" slope="0.35"/></feComponentTransfer>
+                    <feMerge>
+                    <feMergeNode/>
+                    <feMergeNode in="SourceGraphic"/>
+                    </feMerge>
+                </filter>
+       
+            </defs>
+       
+            <g filter="url(#Filter_0)">
+                <text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="60px" x="6px" y="49px"><tspan font-size="60px" font-family="Tahoma" fill="#353535">iridian</tspan></text>
+            </g>
+       </svg>
+       
         <div>
             <p>a cross-version compatible injection cheat for minecraft</p>
         </div>
