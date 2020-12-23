@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ossianwinter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://iridian.cc
+  * I am ossianwinter (https://keybase.io/ossianwinter) on keybase.
+  * I have a public key with fingerprint 6A1B 16AD 6ABA 8446 FB84  D3FC 1017 BE95 C68A 39F9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201579a60ff02a6c9e75329aa418d715174c8e069d2948d0e01d00124441db226d0a",
+      "fingerprint": "6a1b16ad6aba8446fb84d3fc1017be95c68a39f9",
+      "host": "keybase.io",
+      "key_id": "1017be95c68a39f9",
+      "kid": "0101159ef812d1e6042a8ab8f6be6fd9e2cdc9a3b9c5fc408a6e54acd59bcc53674b0a",
+      "uid": "229801e5063809c7d6a59c11b0762319",
+      "username": "ossianwinter"
+    },
+    "service": {
+      "hostname": "iridian.cc",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1608696403,
+  "expire_in": 157680000,
+  "prev": "cdf3421bbfa589fdd40225866009cc4c758c58446b6a61830eb62b36c393fe8c",
+  "seqno": 78,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJrTBRXFN4tonXDs0VopY1kitgH1bnzuDOz2gRpU9qgS2JNpLrJOo87
+yxTYXXaWVymUCAht0ZKmgIJ1tYIpKlRMMZRm20IN0lDqimgND6kWE5UikVLJuqV2
+hui/3j8395zv+853zj3nwkMMJmNU3Pf1/R9zAeNgb1O+wXaj750STHBKxZi5BMtG
+SxfKkZDqsWUrEmbGcEDggGY4HuKyjBM8FDnE0CTB8TwFWIkBNGAokUU45CSCo1gJ
+RziQcI1GURSQBIKAEs5jyZisOOzI7XIrDo8mC3kgAMhLkBd4lqKgLLCURMoiwAEj
+II4WIcuTnMxpxCynqjM0cwKvovWKU4tpD9uSvf/BP/aNA0BzSGYBIQEEcYrgWV5g
+ZSggKEscIkRJ5HhS4ERaFimc5SGiKV6UaE4QRZqEDCUs+c5fkiMIjsUBonFIsjgn
+MppxmhMBEHAGEiTQ6+aryO3gc5GGdqqqwjsKtVaRGytNxrRMgSIifbh6N49QiluR
+NNh6UdTYLrfT4xSdOVo8y+NxqWad5yl26cBCJNgeSdgExSFpk9QYBcitKk4HZgYa
+UvQouiaAOAs5SOFkMoaKXIob2RQdQTOQxbWj10EFmqQoySRFAEGQeZrlZEmicIKg
+WQhxrTuREhmaFWn9YwTIQ8CSOBIgIZBQJDlSRqzuWEV5DidmZljNJ2/XNFXF7uA9
++W6Elfb1WpcZjCbD8tAn9BUzmFZGPV68+BtRhhNNnZMfkRt9d1IPftJdeWpm+dH+
+HbHMnYQrz/dUv3qqciQ9s/5moH4yybMmMFBFJOy/PZFi+DImu+3l83WFwemaqMjM
+HfPtZfXTxzqJ4a4G8+hUe+LBnkMRhqGdT+494/Q/Hbp195a3QNJ8jWVLTMvwocbx
+jALj33F+b8uexP2XfCGlHVUL4z4X/ePk76ETvoC36J9j751bXLCfHyp9w3nZeq0i
+Mus3y3S+OaTji7GhA4fpRMPpunm43Tv2rzis2v3bH0YfX628VpmWHNxMxqbvKrso
+7PSXmGLzTPy2P0+/338/e83Ns7MR4QH1TETAuLlzNxsLIstuRfyU5qsBbb82u1P4
+q9knLRVf+ZL2JHyQjfdVz9yrmynr+eHIt9aHa7cqVTmfR4Sagvc3xC8K9uC2AxX+
+1y9lvTjyStH15tqO6q+nvAMhxV3P7XupNeOPNu+D8Aa/PJVxNKZxY1DOiwvxDjRd
+jI97tzRv1axAnWxtWbbrLpjtry7ypH56+xfLIhm2UICNzCkLrXvLKmtNzX/lrr3b
+fXXdcHDMWpM598L1wZ/Vsw7bRO5qS1f5YljRm9/c648ypGd0rAy3NDZ0H0lFSTNN
+0LoKjJa3114eWijf9Nno4V7TBfd4dPvc4IkN156xpgw+dSHx7c5nV8xHz4TNf/hg
+3QrjLWX0Sl6zlfRt+s6tDB1Py/wP1+TKxA==
+=r24r
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ossianwinter
+
+==================================================================
